@@ -1,2 +1,2 @@
-# java-dossier-1
-My first steps and experiments in Java and coding.
+Repositorio de ejercicios básicos en Java:
+Prácticas para afianzar fundamentos del lenguaje y lógica de programación.
